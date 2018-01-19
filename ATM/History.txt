@@ -1,0 +1,7 @@
+Withdrawn Ammount: 50 Balance: 4950
+Withdrawn Ammount: 500 Balance: 4450
+Withdrawn Ammount: 50 Balance: 4400
+Withdrawn Ammount: 30 Balance: 4370
+Current Bill Payment Succesful
+Gas Bill payment was successful
+Hospital Bill payment was successful
